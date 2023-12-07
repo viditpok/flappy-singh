@@ -18,3 +18,9 @@ Flappy Singh is an Android game inspired by the popular Crossy Road, with a uniq
    ```
 2. Open the project in Android Studio.
 3. Build the project and run on an emulator or physical device.
+
+## Contributors
+- Ananth Vivekanand: avivekanand3@gatech.edu
+- Jon Wang: jwang3337@gatech.edu
+- Nandini Ramakrishnan: nramakri6@gatech.edu
+- Shivansh Sharma: ssharma667@gatech.edu
