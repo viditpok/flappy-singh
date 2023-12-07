@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">S1</string>
+    <string-array name="Sprites">
+        <item>Sprite1</item>
+        <item>Sprite2</item>
+        <item>Sprite3</item>
+    </string-array>
+</resources>
